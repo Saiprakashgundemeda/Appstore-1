@@ -1,0 +1,16 @@
+.tabButton {
+  background-color: transparent;
+  border-width: 3px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-color: #7b8794;
+  font-size: 20px;
+  margin: 10px;
+}
+.list-item {
+  list-style-type: none;
+}
+.styled-btn {
+  border-color: #2563eb;
+}
